@@ -1,0 +1,15 @@
+name: demo_env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - mayavi
+  - scipy
+  - pip:
+    - mne
+    - nilearn
+    - scikit-learn
+    - nibabel
+    - pandas
+    - matplotlib
