@@ -1,6 +1,6 @@
 # SEEG - HDEEG Coregistration Demo
 
-![coreg demo](img/coreg_demo.png)
+![coreg demo](img/coreg_demo.png) ![coreg demo](img/intra_scalp_coreg.gif) 
 
 ## Introduction
 
@@ -19,7 +19,7 @@ In order to run the scripts there are two options:
 ### 1. Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iTCf/unimi_demo_dataset/master)
 
-You can use [this link](https://mybinder.org/v2/gh/iTCf/unimi_demo_dataset/master) which will take you to the [MyBinder](https://mybinder.org/) site, where an online Python environment will be created for you with all the required libraries and you will enter an interactive session.
+You can use [this link](https://mybinder.org/v2/gh/iTCf/unimi_demo_dataset/master) which will take you to the [MyBinder](https://mybinder.org/) site, where an online Python environment will be created for you with all the required libraries and you will enter an interactive session, where you will be able to change and run the code in real time.
 
 Note: building the environment may take some time, as it might need to be re-built to include recent changes.
 
@@ -31,8 +31,15 @@ It is advisable to use [Anaconda](https://www.anaconda.com/distribution/). Pleas
 
 ```bash
 conda env create -f environment.yml
-
 ```
+
+And then open jupyter lab
+
+```bash
+jupyter lab
+```
+
+
 
 ## Dataset description
 
