@@ -1,6 +1,8 @@
 # SEEG - HDEEG Coregistration Demo
 
-![coreg demo](img/coreg_demo.png)
+<p align="center">
+  <img src="img/coreg_demo.png" alt=""/>
+</p>
 
 ## Introduction
 
@@ -68,12 +70,23 @@ __Note__: Data for both EEG and SEEG has been downsampled to 200 Hz after trigge
 This demo dataset comprises the following steps:
 
 * Loading data
+
 * Visualizing raw data
+
 * Visualizing scalp and intracranial electrode positions
+
 * Visualizing coregistration
+
 * Extracting epochs
+
 * Visualizing epochs
+
 * Computing evoked responses
+
 * Visualizing evoked reponses
 
- ![coreg demo](img/intra_scalp_coreg.gif) 
+  
+
+<p align="center">
+  <img src="img/intra_scalp_coreg.gif" alt=""/>
+</p>
