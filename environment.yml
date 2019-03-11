@@ -5,6 +5,7 @@ dependencies:
   - python
   - numpy
   - mayavi
+  - scipy
   - pip:
     - mne
     - nilearn
