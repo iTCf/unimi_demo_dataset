@@ -18,7 +18,9 @@ In order to run the scripts there are two options:
 
 ### 1. Binder
 
-You can use [this link]() which will take you to the [MyBinder]() site, where an online Python environment will be created for you with all the required libraries and you will enter an interactive session.
+You can use [this link](https://mybinder.org/v2/gh/iTCf/unimi_demo_dataset/master) which will take you to the [MyBinder]() site, where an online Python environment will be created for you with all the required libraries and you will enter an interactive session.
+
+Note: building the environment may take some time, as it has to get and install all the required libraries.
 
 ### 2. Locally
 
