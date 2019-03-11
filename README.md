@@ -1,6 +1,6 @@
 # SEEG - HDEEG Coregistration Demo
 
-![coreg demo](img/coreg_demo.png) ![coreg demo](img/intra_scalp_coreg.gif) 
+![coreg demo](img/coreg_demo.png)
 
 ## Introduction
 
@@ -75,3 +75,5 @@ This demo dataset comprises the following steps:
 * Visualizing epochs
 * Computing evoked responses
 * Visualizing evoked reponses
+
+ ![coreg demo](img/intra_scalp_coreg.gif) 
