@@ -9,5 +9,7 @@ dependencies:
   - pip:
     - mne
     - nilearn
+    - scikit-learn
+    - nibabel
     - pandas
     - matplotlib
