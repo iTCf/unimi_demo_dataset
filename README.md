@@ -45,6 +45,18 @@ jupyter lab
 
 ## Dataset description
 
+Data was acquired from a patient undergoing intracranial monitoring for surgical planning due to pharmaco-resistant epilepsy.
+
+### Stimulation parameters
+
+Intensity: 5mA
+
+Duration: 0.5 ms
+
+Frequency: 0.5 Hz
+
+Type: biphasic
+
 ### HDEEG
 
 Manufacturer: EGI 
